@@ -1,5 +1,7 @@
 # BaudBuster
 
+![BaudBuster](https://i.imgur.com/oDa7jQy.png)
+
 **BaudBuster** is a Python script that systematically tests UART (serial) port
 configurations to help you discover a device’s correct baud rate, data bits,
 parity, and stop bits. This can be invaluable when working with undocumented
