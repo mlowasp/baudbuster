@@ -21,10 +21,12 @@ of a device.
 ### Prerequisites
 - Python 3.x
 - [PySerial](https://pypi.org/project/pyserial/)
+- [pycoloredprompt](https://github.com/onlygiogi/pycolors)
 
-Install PySerial via pip:
+Install PySerial and pycoloredprompt via pip:
 ```bash
 pip install pyserial
+pip install pycoloredprompt
 ```
 
 ### Installation
