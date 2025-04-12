@@ -22,6 +22,7 @@ of a device.
 
 ### Prerequisites
 - Python 3.x
+- pyloaders
 - [PySerial](https://pypi.org/project/pyserial/)
 - [pycoloredprompt](https://github.com/onlygiogi/pycolors)
 
@@ -29,6 +30,7 @@ Install PySerial and pycoloredprompt via pip:
 ```bash
 pip install pyserial
 pip install pycoloredprompt
+pip install pyloaders
 ```
 
 ### Installation
