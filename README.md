@@ -96,7 +96,7 @@ chmod +x baudbuster.py
 
 ## Contributing
 Contributions, bug reports, and feature requests are welcome! Feel free to open
-issues or pull requests on the [GitHub repository](#).
+issues or pull requests on the [GitHub repository](https://github.com/mlowasp/baudbuster).
 
 ## License
 This project is licensed under the [MIT License](LICENSE). See the `LICENSE`
