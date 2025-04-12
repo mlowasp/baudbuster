@@ -137,7 +137,7 @@ def main(device, send_command=None):
                             except:
                                 data_str = repr(data)
                             loader.progress(iterations)
-                            print(f"{back.BLACK}{fore.LCYAN}>>> {fore.LGREEN}Trying baud={baud}, data_bits={bits_label}, parity={parity_label}, stop_bits={stop_label} ... got {len(data)} bytes: {data_str}{style.RESET}")
+                            print(f"{back.BLACK}{fore.LCYAN}>>> {fore.LGREEN}Tried baud={baud}, data_bits={bits_label}, parity={parity_label}, stop_bits={stop_label} ... got {len(data)} bytes: {data_str}{style.RESET}")
                             sys.exit(0)
                     except Exception as e:
                             pass
